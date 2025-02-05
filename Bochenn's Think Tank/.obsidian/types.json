@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "开始": "datetime",
+    "结束": "datetime",
+    "总页数": "number",
+    "已读": "number",
+    "状态": "text",
+    "出版时间": "date"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "1adac7730152a70b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7a5def9bb5e3d86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9935936d8d5e760d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bookshelf/Literature and Arts/南京大屠杀.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "南京大屠杀"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf7c8beaf791c521",
+    "type": "split",
+    "children": [
+      {
+        "id": "914028d62d4bc8a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdcc740f0cd99bd8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a00a078d3c650375",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:书籍/人文社科/性别研究",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "074f5212f3a7ad50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "4aea7896b2c54fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c10e491cc6e3764",
+        "type": "tabs",
+        "dimension": 23.61904761904762,
+        "children": [
+          {
+            "id": "712555ab1d3ee6ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Template/阅读笔记模板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "阅读笔记模板 的反向链接列表"
+            }
+          },
+          {
+            "id": "8fe5988e24419182",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Template/阅读笔记模板.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "阅读笔记模板 的出链列表"
+            }
+          },
+          {
+            "id": "fc10d88424d69f30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a182851b53145b8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bookshelf/Literature and Arts/南京大屠杀.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "南京大屠杀 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "dbb5240d53c36a47",
+        "type": "tabs",
+        "dimension": 76.38095238095238,
+        "children": [
+          {
+            "id": "fae44481f8ba4849",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 447.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false
+    }
+  },
+  "active": "9935936d8d5e760d",
+  "lastOpenFiles": [
+    "Bookshelf/Literature and Arts/文化苦旅.md",
+    "Bookshelf/Professional Fields/C Language Paradigms and Practices.md",
+    "Bookshelf/Literature and Arts/南京大屠杀.md",
+    "Bookshelf/Literature and Arts/East Asian Literature.md",
+    "Bookshelf/Literature and Arts/War Narratives (Related to the Nanjing Massacre).md",
+    "Template/阅读笔记模板.md",
+    "Bookshelf/Humanities and Social Sciences/亲密关系.md",
+    "2015-06-05.md",
+    "Bookshelf/Humanities and Social Sciences/父权制与资本主义.md",
+    "Bookshelf/Humanities and Social Sciences/Gender Studies.md",
+    "Template/Reading Demo.md",
+    "Bookshelf/Literature and Arts/Modern Art Movements.md",
+    "Bookshelf/Humanities and Social Sciences/Political Economy (Analysis of Das Kapital).md",
+    "Bookshelf",
+    "Bookshelf/Humanities and Social Sciences/Psychology.md",
+    "Topic Index",
+    "Humanities and Social Sciences/未命名.md",
+    "2025-02-05.md",
+    "Bookshelf/Professional Fields/Principles of Computer Systems.md",
+    "202502051507.md",
+    "欢迎.md",
+    "Bookshelf/Professional Fields/Wireless Module.md",
+    "Professional Fields/Qt.md",
+    "Professional Fields/OS.md",
+    "Professional Fields/Linux.md",
+    "Bookshelf/Professional Fields/Embedded Systems Development (Bare Metal → OS Evolution).md",
+    "Bookshelf/Literature and Arts",
+    "Template",
+    "Bookshelf/Humanities and Social Sciences",
+    "Bookshelf/Professional Fields"
+  ]
+}
