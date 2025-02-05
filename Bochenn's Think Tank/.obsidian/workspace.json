@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bookshelf/Literature and Arts/南京大屠杀.md",
+                "file": "Bookshelf/Art Topics/艺术家色彩与光影.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "南京大屠杀"
+              "title": "艺术家色彩与光影"
+            }
+          },
+          {
+            "id": "f2dd346285839e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bookshelf/Humanities and Social Sciences/铁娘子：撒切尔夫人自传.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "铁娘子：撒切尔夫人自传"
             }
           }
         ],
@@ -88,7 +102,6 @@
       {
         "id": "0c10e491cc6e3764",
         "type": "tabs",
-        "dimension": 23.61904761904762,
         "children": [
           {
             "id": "712555ab1d3ee6ed",
@@ -144,23 +157,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bookshelf/Literature and Arts/南京大屠杀.md",
+                "file": "Bookshelf/Art Topics/艺术家色彩与光影.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "南京大屠杀 的大纲"
+              "title": "艺术家色彩与光影 的大纲"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "dbb5240d53c36a47",
-        "type": "tabs",
-        "dimension": 76.38095238095238,
-        "children": [
+          },
           {
             "id": "fae44481f8ba4849",
             "type": "leaf",
@@ -171,11 +176,12 @@
               "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,33 +196,36 @@
   },
   "active": "9935936d8d5e760d",
   "lastOpenFiles": [
-    "Bookshelf/Literature and Arts/文化苦旅.md",
-    "Bookshelf/Professional Fields/C Language Paradigms and Practices.md",
-    "Bookshelf/Literature and Arts/南京大屠杀.md",
+    "Bookshelf/Art Topics/色彩与光线.md",
+    "Bookshelf/Art Topics/艺术家色彩与光影.md",
+    "Bookshelf/Humanities and Social Sciences/亲密关系.md",
+    "Bookshelf/Art Topics",
+    "Bookshelf/Professional Fields/信号与系统.md",
+    "Bookshelf/Professional Fields/数字电路.md",
+    "Bookshelf/Professional Fields/模拟电路.md",
+    "Bookshelf/Professional Fields/计算机网络.md",
+    "Bookshelf/Professional Fields/C和指针.md",
+    "Bookshelf/Professional Fields/C Premier Plus version 6.md",
+    "Bookshelf/Humanities and Social Sciences/我们从未中产过.md",
+    "Bookshelf/Literature/金陵十三钗.md",
+    "Bookshelf/Literature/陆犯焉识.md",
+    "Bookshelf/Humanities and Social Sciences/自我与本我.md",
+    "Bookshelf/Humanities and Social Sciences/铁娘子：撒切尔夫人自传.md",
+    "Bookshelf/Humanities and Social Sciences/外国文学史.md",
+    "Bookshelf/Humanities and Social Sciences/金赛性学报告.md",
+    "Bookshelf/Literature/素食者.md",
+    "Bookshelf/Humanities and Social Sciences/梦的解析.md",
+    "Bookshelf/Art Topics/艺术的故事.md",
+    "Bookshelf/Literature/张纯如：南京大屠杀.md",
+    "未命名.md",
+    "Bookshelf/Humanities and Social Sciences/资本论.md",
     "Bookshelf/Literature and Arts/East Asian Literature.md",
+    "Bookshelf/Literature/文化苦旅.md",
     "Bookshelf/Literature and Arts/War Narratives (Related to the Nanjing Massacre).md",
     "Template/阅读笔记模板.md",
-    "Bookshelf/Humanities and Social Sciences/亲密关系.md",
-    "2015-06-05.md",
-    "Bookshelf/Humanities and Social Sciences/父权制与资本主义.md",
-    "Bookshelf/Humanities and Social Sciences/Gender Studies.md",
-    "Template/Reading Demo.md",
-    "Bookshelf/Literature and Arts/Modern Art Movements.md",
-    "Bookshelf/Humanities and Social Sciences/Political Economy (Analysis of Das Kapital).md",
     "Bookshelf",
-    "Bookshelf/Humanities and Social Sciences/Psychology.md",
     "Topic Index",
-    "Humanities and Social Sciences/未命名.md",
-    "2025-02-05.md",
-    "Bookshelf/Professional Fields/Principles of Computer Systems.md",
-    "202502051507.md",
-    "欢迎.md",
-    "Bookshelf/Professional Fields/Wireless Module.md",
-    "Professional Fields/Qt.md",
-    "Professional Fields/OS.md",
-    "Professional Fields/Linux.md",
-    "Bookshelf/Professional Fields/Embedded Systems Development (Bare Metal → OS Evolution).md",
-    "Bookshelf/Literature and Arts",
+    "Bookshelf/Literature",
     "Template",
     "Bookshelf/Humanities and Social Sciences",
     "Bookshelf/Professional Fields"
